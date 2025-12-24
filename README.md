@@ -150,21 +150,7 @@ oar-data-pipeline/
 
 ---
 
-## 🐛 Troubleshooting
 
-### Windows encoding issues
-```bash
-# Emoji-related encoding errors
-# Use the provided no-emoji data files
-```
-
-### Missing data
-```bash
-# Synthetic data is generated automatically
-# Check internet connection for real API usage
-```
-
----
 
 ## 📄 License
 MIT License – see LICENSE file for details.
@@ -185,5 +171,6 @@ Data Science & Software Developer
 ---
 
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
 
 
