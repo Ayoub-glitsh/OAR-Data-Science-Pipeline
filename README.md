@@ -152,10 +152,7 @@ oar-data-pipeline/
 
 
 
-## 📄 License
-MIT License – see LICENSE file for details.
 
----
 
 ## 🙏 Acknowledgements
 - Open Apparel Registry
@@ -170,7 +167,13 @@ Data Science & Software Developer
 
 ---
 
+## 📄 License
+MIT License – see LICENSE file for details.
+
+---
+
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
 
 
 
