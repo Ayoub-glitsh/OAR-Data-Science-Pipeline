@@ -6,8 +6,9 @@
 
 --- 
 
-**Author:** Ayoub Aguezar  
-
+<p align="center">
+  <img src="img/companies_by_country.png" >
+</p>
 ---
 
 ## 📋 Description
@@ -173,6 +174,7 @@ MIT License – see LICENSE file for details.
 ---
 
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
 
 
 
