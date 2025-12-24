@@ -183,7 +183,6 @@ MIT License – see LICENSE file for details.
 
 ---
 
-*Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
 
 
 
