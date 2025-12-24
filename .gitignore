@@ -1,0 +1,21 @@
+# 1. ENVIRONNEMENT PYTHON 
+venv/
+
+# 2. DONNÉES 
+data/raw/
+data/cleaned/
+data/outputs/
+
+# 3. LOGS 
+logs/
+
+# 4. CACHE PYTHON 
+__pycache__/
+*.pyc
+*.pyo
+
+# 5. SECRETS 
+.env
+
+# 6. FICHIERS SYSTÈME
+.DS_Store
