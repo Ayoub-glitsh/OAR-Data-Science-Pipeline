@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **Author:** Ayoub Aguezar  
-**Technical Assessment:** CommonShare – Data Science Intern
 
 ---
 
@@ -184,3 +183,4 @@ Data Science & Software Developer
 ---
 
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
