@@ -10,7 +10,7 @@
   <img src="img/companies_by_country.png" >
 </p>
 <p align="center">
-  <img src="img/companies_by_country.png" >
+  <img src="img/facilities_per_company.png" >
 </p>
 <p align="center">
   <img src="img/companies_by_country.png" >
@@ -184,6 +184,7 @@ MIT License – see LICENSE file for details.
 ---
 
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
 
 
 
