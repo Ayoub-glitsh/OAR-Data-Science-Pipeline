@@ -9,7 +9,17 @@
 <p align="center">
   <img src="img/companies_by_country.png" >
 </p>
----
+<p align="center">
+  <img src="img/companies_by_country.png" >
+</p>
+<p align="center">
+  <img src="img/companies_by_country.png" >
+</p>
+
+
+
+
+
 
 ## 📋 Description
 End-to-end data pipeline for the Open Apparel Registry (OAR). The project extracts, cleans, analyzes, and visualizes company and facility data across 7 target countries using an OAR-style dataset.
@@ -174,6 +184,7 @@ MIT License – see LICENSE file for details.
 ---
 
 *Project developed for the CommonShare Data Science Intern technical assessment – December 2024*
+
 
 
 
