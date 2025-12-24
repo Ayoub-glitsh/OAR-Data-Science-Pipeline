@@ -174,7 +174,7 @@ oar-data-pipeline/
 
 ## 📧 Contact
 **Ayoub Aguezar**  
-Data Science & Software Developer
+Software & Data Engineering Student
 
 ---
 
@@ -182,6 +182,7 @@ Data Science & Software Developer
 MIT License – see LICENSE file for details.
 
 ---
+
 
 
 
